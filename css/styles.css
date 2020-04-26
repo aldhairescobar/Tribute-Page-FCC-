@@ -60,7 +60,7 @@ h2{
      grid-area: header2;
      min-width: 350px;
      min-height: 700px;
-     background-image: url("/img/eddie.png");
+     background-image: url("https://raw.githubusercontent.com/aldhairescobar/Tribute-Page-FCC-/master/img/eddie.png");
      background-size: cover;
      background-position: center;
 
